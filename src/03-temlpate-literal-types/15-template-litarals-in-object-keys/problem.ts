@@ -5,8 +5,6 @@ type AttributeType = 'Id' | 'Name'
 
 // ---- Don't touch above this line ----
 
-type CharacterAttributesKey = unknown
-
 type CharacterAttributes = unknown
 
 // ---- Don't touch below this line
