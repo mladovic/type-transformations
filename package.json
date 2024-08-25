@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Marin Ladović <marinladovic.develop@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.5.0",
     "cross-fetch": "^4.0.0",
