@@ -11,3 +11,7 @@ Your task is to complete the type interface for the `castSpell` function by dete
 - Use the `castSpell` function to infer its parameter types.
 - Assign the inferred parameter types to `CastSpellParams`.
 - Ensure that your solution passes the provided tests.
+
+## Resources
+https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype
+https://www.typescriptlang.org/docs/handbook/2/typeof-types.html

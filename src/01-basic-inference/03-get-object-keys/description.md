@@ -11,3 +11,7 @@ You are tasked with determining the valid keys of the `magicItems` object. Your 
 - Use `keyof` and `typeof` to extract the keys from the `magicItems` object.
 - Assign the extracted keys to the `MagicItemKeys` type.
 - Ensure that your solution passes the provided tests.
+
+## Resources
+https://www.typescriptlang.org/docs/handbook/2/keyof-types.html
+https://www.typescriptlang.org/docs/handbook/2/typeof-types.html

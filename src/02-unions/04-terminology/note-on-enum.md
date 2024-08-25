@@ -21,3 +21,7 @@ Despite these concerns, enums can still be useful in certain cases, such as:
 - When numeric values need to be associated with constants, or when reverse mapping of enum values is required (where you need to convert a value back to its enum name).
 
 However, for most cases, `union types` or `as const` are the preferred choice due to their simplicity and lack of runtime impact.
+
+## Resources
+
+https://www.youtube.com/watch?v=jjMbPt_H3RQ

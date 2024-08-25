@@ -12,3 +12,7 @@ Your task is to extract the type for the `Mage` character from the `Characters` 
 
 - Use the `Extract` utility type to extract the `Mage` type from the `Characters` discriminated union.
 - Ensure that your solution passes the provided test.
+
+## Resources
+
+https://www.typescriptlang.org/docs/handbook/utility-types.html#extracttype-union

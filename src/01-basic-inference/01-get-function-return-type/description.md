@@ -11,3 +11,7 @@ Complete the `greetHero` function's type inference by determining its return typ
 - Use the function `greetHero` to infer the return type.
 - Assign the inferred type to `GreetHeroReturn`.
 - Ensure that your solution passes the provided tests.
+
+## Resources
+https://www.typescriptlang.org/docs/handbook/utility-types.html#returntypetype
+https://www.typescriptlang.org/docs/handbook/2/typeof-types.html
