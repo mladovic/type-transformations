@@ -6,13 +6,13 @@ The `Extract` utility type helps achieve this by selecting a subset of types fro
 
 For example, you may have different character types like `Warrior`, `Mage`, and `Rogue` in a discriminated union. If you want to work only with `Mage`, you can use the `Extract` utility type to pull out just the `Mage` type from the union.
 
-## Assignment
+## 🎯 Assignment
 
 Your task is to extract the type for the `Mage` character from the `Characters` union. Assign this filtered type to the `MageType` type.
 
 - Use the `Extract` utility type to extract the `Mage` type from the `Characters` discriminated union.
 - Ensure that your solution passes the provided test.
 
-## Resources
+## 🧩 Resources
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#extracttype-union

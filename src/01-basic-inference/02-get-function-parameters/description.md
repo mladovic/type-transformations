@@ -4,7 +4,7 @@ In TypeScript, `Parameters` in a utility type that extracts the parameter types 
 
 For example, if you have a function that casts a spell, you might want to extract its parameter types and use them elsewhere. The benefit here is flexibility: just like `ReturnType`, the parameter types will automatically adjust sa the function signature evolves.
 
-## Assignment
+## 🎯 Assignment
 
 Your task is to complete the type interface for the `castSpell` function by determining its parameter types. You will assign the inferred parameter types to the `CastSpellParams` type.
 
@@ -12,6 +12,7 @@ Your task is to complete the type interface for the `castSpell` function by dete
 - Assign the inferred parameter types to `CastSpellParams`.
 - Ensure that your solution passes the provided tests.
 
-## Resources
+## 🧩 Resources
+
 https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype
 https://www.typescriptlang.org/docs/handbook/2/typeof-types.html

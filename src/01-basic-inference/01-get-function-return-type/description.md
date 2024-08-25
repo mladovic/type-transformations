@@ -4,7 +4,7 @@ In TypeScript, `ReturnType` is a utility type that allows you to infer the retur
 
 For example, if you have a function that generates a greeting for a hero, you might want to infer its return type to ensure it matches the actual value returned by the function. The key benefit here is flexibility: the return type will automatically adjust as your function evolves, without you needing to manually update it.
 
-## Assignment
+## 🎯 Assignment
 
 Complete the `greetHero` function's type inference by determining its return type. The function takes a hero's name and returns a greeting message. Your task is to infer the return type and assign it to the `WelcomeHeroReturn` type.
 
@@ -12,6 +12,7 @@ Complete the `greetHero` function's type inference by determining its return typ
 - Assign the inferred type to `GreetHeroReturn`.
 - Ensure that your solution passes the provided tests.
 
-## Resources
+## 🧩 Resources
+
 https://www.typescriptlang.org/docs/handbook/utility-types.html#returntypetype
 https://www.typescriptlang.org/docs/handbook/2/typeof-types.html
